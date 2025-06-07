@@ -50,6 +50,9 @@ I am a passionate Data Analyst
 2. SQL
 3. Excel
 
+
+## :books: Projects Completed :books:
+* [Sales Analysis](https://github.com/chinelookoye064/Projects/blob/main/Sales_Analysis.md)
 <!--
 **chinelookoye064/chinelookoye064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
