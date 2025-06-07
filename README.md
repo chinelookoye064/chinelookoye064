@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋! My name is Chinelo Okeye, and I'm a Data Analyst from Nigeria.</h1>
 
+| Data Analyst & Mentor | Empowering businesses with Actionable insights from data | STEM Educator
+
 ###
 
 <div align="left">
