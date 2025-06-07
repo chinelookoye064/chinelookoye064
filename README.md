@@ -53,6 +53,7 @@ I am a passionate Data Analyst
 
 ## :books: Projects Completed :books:
 * [Sales Analysis](https://github.com/chinelookoye064/Projects/blob/main/Sales_Analysis.md)
+* [SQL Projects](https://github.com/chinelookoye064/Projects/tree/main/SQL-Projects): This folder contains SQl projects.
 <!--
 **chinelookoye064/chinelookoye064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
