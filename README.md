@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2 align="left">Hi 👋! My name is Chinelo Okeye, and I'm a Data Analyst from Nigeria.</h2>
+<h1 align="left">Hi 👋! My name is Chinelo Okeye, and I'm a Data Analyst from Nigeria.</h1>
 
 ###
 
