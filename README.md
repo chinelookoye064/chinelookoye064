@@ -30,6 +30,24 @@
 </div>
 
 ###
+
+## Mission
+My mission is to help others
+
+
+## About
+I am a passionate Data Analyst
+
+## Skills
+* Python
+* Power BI
+* Excel
+* SQL  
+
+1. Power BI
+2. SQL
+3. Excel
+
 <!--
 **chinelookoye064/chinelookoye064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
