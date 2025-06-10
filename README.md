@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Chinelo Okoye, and I'm a Data Analyst from Nigeria.</h1>
+<h1 align="left">Hi 👋! My name is Chinelo Sussana Anyaorah, and I'm a Data Analyst from Nigeria.</h1>
 
 | Data Analyst & Mentor | Empowering businesses with Actionable insights from data | STEM Educator
 
